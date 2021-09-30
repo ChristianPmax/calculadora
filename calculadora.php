@@ -67,13 +67,15 @@ echo "<br>";
 */
 
 	switch ($operacion) {
-
+/*
     case "suma":
         echo "$var1 + $var2 = ".($var1 + $var2);
         break;
-   /* case "resta":
+        */
+    case "resta":
         echo "$var1 - $var2 = ".($var1 - $var2);
         break;
+        /*
     case "mult":
         echo "$var1 * $var2 = ".($var1 * $var2);
         break;
